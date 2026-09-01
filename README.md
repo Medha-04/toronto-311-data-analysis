@@ -13,7 +13,7 @@ Exploratory analysis of Toronto 311 service requests, comparing **frequency** an
 pip install -r requirements.txt
 ```
 
-4. Open `toronto_311_github_ready_v2.ipynb` in Jupyter or VS Code and run all cells.
+4. Open `toronto_311.ipynb` in Jupyter or VS Code and run all cells.
 
 ## Analysis
 
