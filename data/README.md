@@ -6,7 +6,9 @@ The analysis uses Toronto 311 service request data provided through the City of 
 
 To reproduce the analysis:
 
-1. Download the Toronto 311 dataset.
+1. Download the Toronto 311 dataset. 
+https://open.toronto.ca/dataset/311-service-requests-customer-initiated/
+311 Service Requests 2026
 2. Place the CSV in this folder.
 3. Rename it to `SR2026.csv`.
 4. Run the notebook from the root of this repository.
